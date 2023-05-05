@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[bitcoin.qt-translation-022x]
+file_filter = src/qt/locale/kylacoin_<lang>.xlf
+source_file = src/qt/locale/kylacoin_en.xlf
+source_lang = en
